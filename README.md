@@ -1,6 +1,7 @@
 # PDF Editing Tools
 
 Simple Python tools for basic PDF page editing using [`pypdf`](https://pypdf.readthedocs.io/).
+(I got tired of using ad-filled apps for basic PDF editing, so I wrote a small Python tool instead.)
 
 This project includes two versions:
 
